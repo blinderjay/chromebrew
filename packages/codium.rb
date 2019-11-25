@@ -14,8 +14,8 @@ class Codium < Package
   description 'Vscodium is Open Source Software Binaries of VSCode with a community-driven default configuration.'
   homepage 'https://vscodium.com/'
   version '1.36.1'
-  source_url 'https://github.com/VSCodium/vscodium/archive/1.36.1.tar.gz'
-  source_sha256  'a2858f76abc4da57a0db4f8127b42b12f065d96dad172bb9f4f2b04c2805f82b'
+  source_url 'https://github.com/VSCodium/vscodium/archive/1.40.1.tar.gz'
+  source_sha256  '17c812ca909019286d90fd3a277fb74137f41aec866325bc24b3b3d14a12ec10'
 
   binary_url ({
   })
